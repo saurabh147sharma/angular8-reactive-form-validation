@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 
-import { ValidationMessagesComponent } from './validation-messages.component';
+import { ValidationMessagesComponent } from './Components/Validation/validation-messages.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
